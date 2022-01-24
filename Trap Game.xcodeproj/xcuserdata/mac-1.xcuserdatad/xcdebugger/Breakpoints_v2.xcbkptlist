@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E4E575D8-BBAA-4516-A19F-8AB9F292B7AF"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6CFE257F-3017-455A-9FCD-14DCE658866F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Trap Game/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "6CFE257F-3017-455A-9FCD-14DCE658866F - 11dfdb5e3a2931d4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Trap_Game.ViewController.range.getter : Swift.Int"
+                  moduleName = "Trap Game"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac-1/Desktop/AhmedTest/Trap%20Game/Trap%20Game/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "110">
+               </Location>
+               <Location
+                  uuid = "6CFE257F-3017-455A-9FCD-14DCE658866F - a7bfff9cbba00dd8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Trap_Game.ViewController.range.setter : Swift.Int"
+                  moduleName = "Trap Game"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac-1/Desktop/AhmedTest/Trap%20Game/Trap%20Game/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "118">
+               </Location>
+               <Location
+                  uuid = "6CFE257F-3017-455A-9FCD-14DCE658866F - f706214c92a41fb2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Trap_Game.ViewController.range.modify : Swift.Int"
+                  moduleName = "Trap Game"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac-1/Desktop/AhmedTest/Trap%20Game/Trap%20Game/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "6CFE257F-3017-455A-9FCD-14DCE658866F - b6cfc7ee56eac6d8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Trap_Game.ViewController.range.modify : Swift.Int with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Trap Game"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac-1/Desktop/AhmedTest/Trap%20Game/Trap%20Game/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "6CFE257F-3017-455A-9FCD-14DCE658866F - 20a2fc9facf377ee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Trap_Game.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Trap_Game.ViewController"
+                  moduleName = "Trap Game"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac-1/Desktop/AhmedTest/Trap%20Game/Trap%20Game/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "1540">
+               </Location>
+               <Location
+                  uuid = "6CFE257F-3017-455A-9FCD-14DCE658866F - 63ea1dfd58350fa2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Trap_Game.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Trap_Game.ViewController&gt;"
+                  moduleName = "Trap Game"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac-1/Desktop/AhmedTest/Trap%20Game/Trap%20Game/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "1475">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B6B89DF2-E833-4114-859F-22A41EF7A2EF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Trap Game/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
